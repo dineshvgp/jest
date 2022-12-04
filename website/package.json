@@ -3,7 +3,7 @@
     "start": "node server/server.js"
   },
   "dependencies": {
-    "connect": "2.8.3",
+    "connect": "3.0.0",
     "fs.extra": "*",
     "glob": "*",
     "mkdirp": "*",
