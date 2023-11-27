@@ -8,7 +8,7 @@
   "license": "BSD-3-Clause",
   "main": "src/index.js",
   "dependencies": {
-    "jest-util": "^12.1.0"
+    "jest-util": "^21.0.0"
   },
   "jest": {
     "testEnvironment": "node"
